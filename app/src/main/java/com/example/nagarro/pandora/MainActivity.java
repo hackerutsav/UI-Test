@@ -129,6 +129,6 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
         Toast.makeText(this, s.name,Toast.LENGTH_LONG).show();
         TextView tv = (TextView)findViewById(R.id.name);
         tv.setText(s.name);
-    }
+    }}
 
 
